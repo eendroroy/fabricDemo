@@ -1,3 +1,5 @@
 django
 Fabric3
+future-fstrings
 jinja2
+uwsgi
